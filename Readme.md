@@ -33,4 +33,4 @@ The CSS code (`styles.css`) handles the styling:
 2. Input the bill amount, select service quality, and enter the number of people.
 3. Click the "Calculate" button to see the calculated tip amount per person.
 
-## Hosted Link :-
+## Hosted Link :- https://ankit00073.github.io/tip_calculator/
